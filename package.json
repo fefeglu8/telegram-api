@@ -1,0 +1,12 @@
+{
+  "name": "telegram-server",
+  "version": "1.0.0",
+  "main": "api/telegram.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/telegram.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
